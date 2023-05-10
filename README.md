@@ -2,10 +2,10 @@
 ###### Creado con HTIL5 y CSS3 en el bootcamp de Tecnolochicas Pro
 
 ## ÍNDICE
-* [Intro]()
-* [Qué construí]()
-* [Objetivos del Proyecto]()
-* [Link al Demo]()
+* [Intro](https://github.com/avhdzsaa/Google-Clone/tree/main#intro)
+* [Qué construí](https://github.com/avhdzsaa/Google-Clone#qu%C3%A9-constru%C3%AD)
+* [Objetivos del Proyecto](https://github.com/avhdzsaa/Google-Clone#objetivo-del-proyecto)
+* [Link al Demo](https://github.com/avhdzsaa/Google-Clone#link-al-demo)
 
 ***
 
